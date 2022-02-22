@@ -1,0 +1,1429 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The poeticall essayes of Alexander Craige Scotobritane Seene and allowed.</title>
+            <author>Craig, Alexander, 1567?-1627.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1604</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19527</idno>
+            <idno type="STC">STC 5958</idno>
+            <idno type="STC">ESTC S105268</idno>
+            <idno type="EEBO-CITATION">99840997</idno>
+            <idno type="PROQUEST">99840997</idno>
+            <idno type="VID">5553</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19527)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 5553)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 954:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The poeticall essayes of Alexander Craige Scotobritane Seene and allowed.</title>
+                  <author>Craig, Alexander, 1567?-1627.</author>
+               </titleStmt>
+               <extent>[48] p.   </extent>
+               <publicationStmt>
+                  <publisher>By William White, dwelling in Cow-lane neere Holborne Conduit,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1604.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Signatures: A-F⁴.</note>
+                  <note>The last leaf contains Latin verses addressed to the author by Robert Ayton and Arthur Gordon.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:5553:1"/>
+            <pb facs="tcp:5553:1"/>
+            <p>THE POETICALL ESSAYES OF Alexander Craige SCOTOBRI<g ref="char:EOLhyphen"/>TANE.</p>
+            <figure>
+               <figDesc>printer's device of William White, featuring a chariot drawn by dragons driven by a male figure or Triptolemus or Demeter (McKerrow 188β)</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>Seene and allowed.</p>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Imprinted at London by Wllliam <hi>White,</hi> dwelling in Cow-lane neere Holborne Conduit. 1604.</p>
+         </div>
+         <div type="poem_author_to_book">
+            <pb facs="tcp:5553:2"/>
+            <head>THE AVTHOR TO HIS BOOKE.</head>
+            <lg>
+               <l>WHen <hi>Dedal</hi> taught his tender Sonne to flee,</l>
+               <l>Out through the ſubtile watrie vaults of aire:</l>
+               <l>Goe not too high, nor yet too low, ſayd hee:</l>
+               <l>Of Floodes beneath, of Fire aboue beware:</l>
+               <l>So home-bred Rimes you <hi>Icare</hi>-like muſt riſe,</l>
+               <l>Mid-way betwixt the Vulgar and the Wiſe.</l>
+            </lg>
+            <lg>
+               <l>For you ſhall be vnto the vulgar ſort</l>
+               <l>No fit propine, becauſe not vnderſtood:</l>
+               <l>And with the Wiſe you muſt haue ſmall reſort,</l>
+               <l>Since they can reape in reading you no good:</l>
+               <l>Like <hi>Dedalus</hi> I then direct, thus flie,</l>
+               <l>Goe neither low, nor yet I pray too hie.</l>
+            </lg>
+            <lg>
+               <l>And though you be directed to a King,</l>
+               <l>By any meanes approach not Court I pray,</l>
+               <l>For ſome will ſay my precepts pricke and ſting,</l>
+               <l>And ſome ſhall ſcorne, ſome carpe, ſome caſt away:</l>
+               <l>But (as you muſt) if toward Court you goe,</l>
+               <l>Since freindes are few, I pray you breed no foe.</l>
+            </lg>
+            <q>
+               <lg>
+                  <l>
+                     <hi>Aerij montes et mollia prata, nemuſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>et vos carminibus flumina not a meis,</hi>
+                  </l>
+                  <l>
+                     <hi>Quod me tam gracilem voluistis ferre Poetam</hi>
+                  </l>
+                  <l>
+                     <hi>indignor, magnae laudis amore calens.</hi>
+                  </l>
+               </lg>
+            </q>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:5553:2"/>
+            <head>TO MY DREAD SO<g ref="char:EOLhyphen"/>VERAIGNE <hi>IAMES,</hi> by the grace of God, of <hi>Britaine, Fraunce</hi> and <hi>Ireland,</hi> King.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">C</seg>Atulus Lactatius</hi> hauing done the vtmoſt of his endeuours to stay his Souldiers that fled be<g ref="char:EOLhyphen"/>fore their enemies, put him ſelfe among the Run-awayes, and diſ<g ref="char:EOLhyphen"/>ſembled to be a Coward, to beare them companie; That ſo they might rather ſeeme to follow their Captaine, then runne away from the Enemie: This was a neglecting of his reputation, to conceale the ſhame and reproch of others. I haue (accompliſhed Archi-Monarch) with the reſt of theſe <hi>Boreo-Britan</hi> Poets, been ingrately ſilent; and with the cold aſshes of Feare, haue couered the coales of my Loue: Becauſe (as <hi>Archileonida</hi> ſayd to the <hi>Thratian</hi> Legates, There were many moe more valiant Cittizens in <hi>Sparta,</hi> then her Sonne <hi>Braſidas,)</hi> I found my ſelfe but a doltiſh <hi>Cheril,</hi> among ſo many delicate <hi>Homers:</hi> And thus, neither durſt I prayſe thy Fortunes, nor congratulate thy Great<g ref="char:EOLhyphen"/>nes; But now am bold to preſent to your moſt ſacred eyes theſe louely litures, both to encourage others, &amp; make ſa<g ref="char:EOLhyphen"/>tisfaction
+<pb facs="tcp:5553:3"/> for my (ſeeming ingratitude) long ſilence. I in<g ref="char:EOLhyphen"/>tend not with thoſe <hi>Macedonian</hi> Paraſites to call <hi>Alex<g ref="char:EOLhyphen"/>ander,</hi> the Sonne of <hi>Iupiter:</hi> nor with <hi>Hermodorus</hi> to make <hi>Antigonus</hi> the ſonne of <hi>Phoebus.</hi> I write not to enlarge thy fame, which is boundles; nor to begge reward, which I merit not; nor to purchaſe prayſe, which I craue not; but in few lines to ſhew the infinitie of my Loue to your Grace. When <hi>Vitellius,</hi> at the Battell of <hi>Cremona</hi> was ſlaine, the <hi>Parthian</hi> King <hi>Vologeſus</hi> ſent Embaſsa<g ref="char:EOLhyphen"/>dours to <hi>Veſpaſian,</hi> offering him fourtie thouſand <hi>Par<g ref="char:EOLhyphen"/>thian</hi> Horſemen to ayde him, (This was a glorious and ioyfull thing to be ſought vnto with offers of ſo great aſ<g ref="char:EOLhyphen"/>ſistaunce, and yet not to need them): So thankes were giuen to <hi>Vologeſus,</hi> and hee at perpetuall peace from thencefoorth with the <hi>Romans.</hi> I haue ſent (dread Leige) thoſe Papers Congratulatorie, and Paroenetic, to your Maieſtie, not that your Highnes needes them, but with <hi>Vologeſus,</hi> to ſhew my Loue to <hi>Veſpaſian,</hi> and purchaſe his thankes. If you like my labours, they come not too late: if you loath them, they come too ſoone to light. Thus, bold as a true and louing Subiect, fearefull as a bluſhing and onmanumitted Prentice in Poeſie, I remaine your Maieſtes,</p>
+            <closer>
+               <signed>Borne Subiect, and bound beadman, Alexander Craige.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:5553:3"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE famous <hi>Grecians</hi> had a Law, (though after mittigated by <hi>Cha<g ref="char:EOLhyphen"/>rondas)</hi> that who ſoeuer for feare did run away from Battle, ſhould be puniſhed with death. So, leaſt I ſhould come in the reuerence of that Law, or be called a Cow<g ref="char:EOLhyphen"/>ward, I haue preſumed to publiſh theſe my long conceyted Poems to common light: And like that valiant <hi>Bayard</hi> (who feeling himſelfe deadly wounded, and vnable to ſit on his Horſe, commaunded his Souldiers to lay him againſt a tree, but in ſuch ſort, as he might die with his face to the Enemie) I reſolue, ſince I haue alreadie from wiſeſt cen<g ref="char:EOLhyphen"/>ſors, receiued my death ſhot, by printing my papers, to die with my face to the Foe. And ſince (louing Lector) <hi>Non omnibus datur adire Corinthum,</hi> I am contented to be poynted at for a fooliſh Poet, ſo I may be reputed a fayth<g ref="char:EOLhyphen"/>full Subiect. <hi>Mauricius</hi> forewarned by Dreames, and ſundry Prognoſtications, that <hi>Phocas</hi> ſhould kill him, de<g ref="char:EOLhyphen"/>maunded of <hi>Philip</hi> his ſonne in law who this <hi>Phocas</hi> was? Who anſwered, hee was a faynt and cowardly fellow. The Emperour thereby concluded, hee was both cruell, and a murtherer. I feare no foe () ſaue faynting <hi>Phocas,</hi> who cowardly concealing his owne, will cruelly murther my Verſes. Thus humbly ſubmitting my home<g ref="char:EOLhyphen"/>ly laboures to thy charitable caſligation, I reſt.</p>
+            <closer>
+               <signed>Thine as thou decerns and deſerues, Alexander Craige.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sonnets">
+            <pb facs="tcp:5553:4"/>
+            <div type="sonnet">
+               <pb facs="tcp:5553:4"/>
+               <head>1. <hi>SONET.</hi> TO HIS MAIESTIE.</head>
+               <l>
+                  <seg rend="decorInit">W</seg>Hen others ceaſe, now I begin to ſing;</l>
+               <l>And now when others hold their peace, I ſhout:</l>
+               <l>(The Lord preſerue ſweete <hi>Leonatus King,</hi>
+               </l>
+               <l>That hee may rule great <hi>Britane</hi> round about:)</l>
+               <l>But if perhaps your Maieſtie ſhall doubt,</l>
+               <l>what makes me fing whe<g ref="char:cmbAbbrStroke">̄</g> others hold their peace:</l>
+               <l>My ruſticke Muſe when as each one cry'd out,</l>
+               <l>Could not be heard from ſo remote a place,</l>
+               <l>Dombe Woonder then my Senſe did ſo confound,</l>
+               <l>The greater ſtroke aſtoniſheth the more,</l>
+               <l>When as I heard thy name ſo much renound,</l>
+               <l>I felt as lying in a ſound no ſore:</l>
+               <l>But now reuiu'd, I ſing, when others ceaſe,</l>
+               <l>(In wonted mercie Lord preſerue thy Grace.)</l>
+            </div>
+            <div type="sonnet">
+               <head>2</head>
+               <l>WIth mutuall loſſe, with none or litle gaine,</l>
+               <l>When <hi>Ilion</hi> faire was fully ſet on fire,</l>
+               <l>Proud <hi>Paris</hi> by his horie riuall ſlaine,</l>
+               <l>And <hi>Tyndaris</hi> brought backe to her Empire:</l>
+               <l>I know not if the <hi>Phrygians</hi> did require</l>
+               <l>
+                  <hi>Melitides,</hi> but loe when <hi>Troy</hi> was wrackt,</l>
+               <l>Kind foole he came (ſome ſay at their deſire)</l>
+               <l>Yet ſayd he nought, but ſigh'd to ſee them ſackt:</l>
+               <pb facs="tcp:5553:5"/>
+               <l>Hee then was kind, I hinder now great Prince:</l>
+               <l>Hee wept, I ſmild, to ſee thy <hi>Troy</hi> but blood:</l>
+               <l>Hee ſent for, I vnſought, and had long ſince</l>
+               <l>Been heere, if that my comming could done good:</l>
+               <l>Yet in this poynt our kindnes I conione,</l>
+               <l>Wee come kind fooles to helpe when all is done.</l>
+            </div>
+            <div type="sonnet">
+               <head>3</head>
+               <l>GReat <hi>Pompey</hi> cauſ'd his Heraulds to proclaime</l>
+               <l>A publique Feaſt to nations farre and neare,</l>
+               <l>The young, the old, the rich and poore, all came,</l>
+               <l>As welcome guiſtes vnto that Princely cheare:</l>
+               <l>One blind man at a lame began to ſpeare,</l>
+               <l>What ſhall we doe? goe ſayd the lame, take way,</l>
+               <l>I ſhall be guide, thou on thy backe ſhall beare</l>
+               <l>My lamed limbes; and thus they keepe the day.</l>
+               <l>Looke peereleſſe <hi>Pompey</hi> on my Lines and mee,</l>
+               <l>They lame, and I without thy ſight am blinde:</l>
+               <l>Wee come from fartheſt <hi>Scotiſh</hi> coaſtes to thee,</l>
+               <l>Some portion of thy royall Feaſt to finde:</l>
+               <l>It reſtes in thee to welcome vs therefore,</l>
+               <l>And make me rich, that I may beg no more.</l>
+            </div>
+         </div>
+         <div type="panegyric">
+            <pb facs="tcp:5553:5"/>
+            <head>TO THE KINGES MOST EXCELLENT MAIESTIE. Epiſtle Congratulatorie &amp; Peraenetic.</head>
+            <lg>
+               <l>SCarſe had my Muſe reſpir'd the ſmalleſt ſpace,</l>
+               <l>From paynting prayſes of our ciuill Pace,</l>
+               <l>Pack'd vp by thee moſt gratious King of late</l>
+               <l>In <hi>Calidons</hi> diſturb'd vnquiet ſtate,</l>
+               <l>When loe the Kalendes of this pleaſent Spring,</l>
+               <l>Vnto my eares did ioyfull tydinges bring,</l>
+               <l>That bles'd <hi>Eliza</hi> had reſignd her breath,</l>
+               <l>And payde the laſt and hindmoſt debt to death:</l>
+               <l>(O fearefull death! the fatall end of all,</l>
+               <l>With equall Mace thou chops both great and ſmall)</l>
+               <l>And thou deſign'd her Diadems to weyre,</l>
+               <l>Of royall blood her nyeſt agnat heyre.</l>
+            </lg>
+            <lg>
+               <l>Thou like a <hi>Noah</hi> long has kep't thy Arke,</l>
+               <l>Thoyld many ſtorme by day, and gloomie darke:</l>
+               <l>Yet would not breake thy ward till time thy God,</l>
+               <l>Hath lent thee leaue, and bids thee walke abrode:</l>
+               <l>But his commaund ſince thou would nothing do,</l>
+               <l>Loe he hath ioynd his bleſsinges therevnto.</l>
+               <l>Come foorth with Wife and Children, ſweete command,</l>
+               <l>The bleſsing breok and multiply the land.</l>
+            </lg>
+            <lg>
+               <l>Thus am I ſolu'd of all my wonted doubt,</l>
+               <l>Nor wits nor weirdes thy fortunes bringes about,</l>
+               <l>But that eternall prouidence aboue:</l>
+               <l>Which thou art bound to ſerue, with feare and loue.</l>
+               <l>Thoſe newes of new, haue wak'd my ſleeping vaine,</l>
+               <l>And makes me write vnto your Grace againe</l>
+               <pb facs="tcp:5553:6"/>
+               <l>Moſt harty greetings of thy happy chaunce,</l>
+               <l>Since thou art King of England, Ireland, Fraunce,</l>
+               <l>Beſides that famous and vnmatch'd renowne</l>
+               <l>Of thy vnconquered olde and Scottiſh Crowne.</l>
+               <l>Long deſuetude hath ruſted ſo my quill,</l>
+               <l>My wits are weake, but great is my good will.</l>
+               <l>Though ſcoffing Idiots will my paines depraue,</l>
+               <l>And <hi>Ariſtarchus</hi> all the credite haue.</l>
+               <l>I am to thee (dread Leigt) thy aerie Elfe:</l>
+               <l>I borrow but thy words to prayſe thy ſelfe.</l>
+            </lg>
+            <lg>
+               <l>Let Muſe-foe <hi>Mars</hi> elſewhere abroad go dwell,</l>
+               <l>Of warres and wounds let forraine Fachions ſmell:</l>
+               <l>Peace dwels with thee, where it hath dwelt ſo long.</l>
+               <l>Prone to propell, and to permit no wrong.</l>
+            </lg>
+            <lg>
+               <l>Wiſe <hi>Periander</hi> wreates that Crownes of Kings,</l>
+               <l>On many fearefull fluctuations hings:</l>
+               <l>And that a Monarch's ſuretie no way ſtood</l>
+               <l>In victories, in warrie broyles, and blood:</l>
+               <l>But in the loue of Subiects truſt and true,</l>
+               <l>Thence ſaid the ſaige did ſetling ſure enſue.</l>
+            </lg>
+            <lg>
+               <l>Graue <hi>Xenophon</hi> thy regiſters records,</l>
+               <l>That deeing <hi>Cyrus</hi> ſpoke thoſe ſelfe ſame words.</l>
+               <l>
+                  <hi>Aratus</hi> rare, ſaid ſo to <hi>Philip</hi> great,</l>
+               <l>That loue and peace confirm's a Kings eſtate:</l>
+               <l>In ſpeculation Schoolemen beene diume,</l>
+               <l>But thou exceeds them Sou'raigne Syre ſenſine:</l>
+               <l>For thou has put their ſacred gnom's in vre,</l>
+               <l>Perfection in thy practique makes thee ſure.</l>
+            </lg>
+            <lg>
+               <l>Let forraine lands now looke with enuies ee,</l>
+               <l>And who would rule, let him come learne at thee:</l>
+               <l>When ather <hi>Momus</hi> or <hi>Rhamnuſia</hi> barkes,</l>
+               <l>Thy wits are wondrous both in wreats and warkes.</l>
+            </lg>
+            <lg>
+               <l>Oft times ſaid <hi>Otho</hi> in a rage, that hee</l>
+               <l>Had rather chuſe nor be a King to die.</l>
+               <pb facs="tcp:5553:6"/>
+               <l>And <hi>Diocletian</hi> ſaid, to be a King,</l>
+               <l>And well to rule, was moſt difficill thing.</l>
+               <l>When <hi>Dioniſe</hi> at <hi>Siracuſa</hi> ſweare</l>
+               <l>That <hi>Damocles</hi> ſome while his Crowne ſhould weare:</l>
+               <l>But being crownd, he plainely did proteſt</l>
+               <l>He neuer could-be blithe to be ſo bleſt.</l>
+               <l>Were thoſe on life for to behold thee now.</l>
+               <l>They could not raigne, nor could they rule as thou.</l>
+               <l>Thy match on mould nor was, nor yet ſhall bee:</l>
+               <l>Thus might they learne for to be Kings at thee.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Ariſton's</hi> praiſe is thine, as I ſuppoſe,</l>
+               <l>Thou keepes thy friends, and reconciles thy foes:</l>
+               <l>
+                  <hi>Vespaſian</hi>-like, whome <hi>Rome</hi> obeyd with loue,</l>
+               <l>A Shepheard both, and carefull King you proue:</l>
+               <l>Thy folde bene broke, and lo thou has tane paine:</l>
+               <l>To recollect thy erring flockes againe.</l>
+               <l>Thy Scepter and thy Sheephooke both are one,</l>
+               <l>Thou vnder heauen, their Herd and Lord alone.</l>
+            </lg>
+            <lg>
+               <l>And now as <hi>Homer</hi> paynted <hi>Priam</hi> foorth,</l>
+               <l>Thou has beſide thee men of wit and woorth:</l>
+               <l>Can any harme or ſtrange thing now betide thee,</l>
+               <l>
+                  <hi>Vcalegon Antenor</hi> are beſide thee.</l>
+               <l>Like <hi>Macedo</hi> the wondering world may doubt thee,</l>
+               <l>
+                  <hi>Parmenio</hi> and <hi>Philotas</hi> are about thee.</l>
+               <l>For all theſe Kingdomes which thou doeſt command,</l>
+               <l>A part by hop's, a happy part in hand,</l>
+               <l>Thou has a Kingdome to thy ſelfe vnknowne,</l>
+               <l>Looke rightly too, and <hi>Cecil</hi> is thine owne.</l>
+            </lg>
+            <lg>
+               <l>Were <hi>Plato</hi> now on life, then would he ſay</l>
+               <l>That thy republikes bleſſed are this day:</l>
+               <l>For thou art wiſe, and now wiſe counſell hants,</l>
+               <l>And with thy wiſedome thou ſupplies their wants.</l>
+            </lg>
+            <lg>
+               <l>Yet this much more I plainely muſt impart,</l>
+               <l>A friendly counſel from a faithfull heart:</l>
+               <pb facs="tcp:5553:7"/>
+               <l>Though farre from <hi>Ioue</hi> and thunder-claps I dwell,</l>
+               <l>My Lines of loue, of truth, and zeale ſhall ſmell,</l>
+               <l>Read then my Rymes moſt wiſe and prudent Prience,</l>
+               <l>And let a Hog, teach <hi>Minerue,</hi> but offence.</l>
+               <l>Not that I thinke your Grace has any need,</l>
+               <l>Or know's not els what's heere before you reed.</l>
+               <l>No, I atteſt great ſacred <hi>Ioue</hi> aboue,</l>
+               <l>I onely write to manifeſt my loue:</l>
+               <l>While in my tugure (ſuch is my eſtate)</l>
+               <l>I take repaſt of poore vnpeppered Kate.</l>
+               <l>I thanke my God for ſuch as he doth giue,</l>
+               <l>And pray's withall, that well, and long thou liue:</l>
+               <l>And in ſeces at ſolitarie times,</l>
+               <l>Thou art remembred in my ruſticke Rymes.</l>
+               <l>
+                  <hi>Sinetas</hi> poore vnto the <hi>Perſian</hi> King,</l>
+               <l>Cold water in his hollow palme did bring:</l>
+               <l>Which <hi>Artaxerxes</hi> louingly out-dranke,</l>
+               <l>And gaue <hi>Sinetas</hi> both reward and thanke.</l>
+               <l>Right ſo thoſe riuols of my poore Ingyne,</l>
+               <l>I heere preſent, from out this palme of mine.</l>
+               <l>Read then (dread Leige) thoſe trauails of my loue.</l>
+               <l>Elaborate, and done for thy behoue.</l>
+            </lg>
+            <lg n="1">
+               <l>1 Thus I begin, ſince adulations vaine,</l>
+               <l>In Courts wid Kings and Monarch muſt remaine:</l>
+               <l>To aſſentators thou muſt giue ſome eare,</l>
+               <l>But be no prouder of their prayſe a haire:</l>
+               <l>For <hi>Macedo</hi> would needs be cald a God,</l>
+               <l>And to this end his Edicts blew abrod:</l>
+               <l>Which on his head did heape diſgrace the rather</l>
+               <l>Sith he aſham'd that <hi>Phillip</hi> was his father.</l>
+            </lg>
+            <lg n="2">
+               <l>2 Giue Paraſites enough, but not too much,</l>
+               <l>And be not lauiſh, leaſt thy lucke be ſuch</l>
+               <l>As <hi>Timon Coliteus,</hi> who outſpent</l>
+               <l>On <hi>Demeas</hi> and <hi>Gnatonides</hi> his rent;</l>
+               <pb facs="tcp:5553:7"/>
+               <l>Of that vnthankfull numer liue a new,</l>
+               <l>To promiſe much, and to performe but few:</l>
+               <l>Be thou the ſtone (precellent Prince) of ſuch,</l>
+               <l>For to ſecerne the honeſt mindes from ſuch.</l>
+            </lg>
+            <lg n="3">
+               <l>3 The faithfull man that once hath done thee good,</l>
+               <l>And for thy life hath ventered life and blood;</l>
+               <l>Be thankfull ſtill to him, doe not deſpite him,</l>
+               <l>But with thy ſelfe thinke thou can nee're acquite him:</l>
+               <l>Proue not vnkinde to cauſe true <hi>Phocion</hi> die,</l>
+               <l>That thus hath fought, and wun the field for thee,</l>
+               <l>But when ſuch frieuds ſo nigh thy ſides are ſeene,</l>
+               <l>Remember then but them thou had not beene.</l>
+            </lg>
+            <lg n="4">
+               <l>4 <hi>Serapion</hi> who is not taught to ſpeike,</l>
+               <l>Let him not want, ſuppoſe he ſhame to ſeike:</l>
+               <l>He is thine owne, and loues thee as the leaue,</l>
+               <l>His ſpeaking lookes will tell when he would haue:</l>
+               <l>Be (prudent Prince) a <hi>Pompey</hi> in this caſe,</l>
+               <l>A benefite vnſought hath double grace.</l>
+            </lg>
+            <lg n="5">
+               <l>5 Change not too oft the Rulers of thy ſtate,</l>
+               <l>For that may breed inteſtiue ſtrange debate:</l>
+               <l>The Fleeis els full, from ſucking more will ſlake,</l>
+               <l>But hungry Gnats will make thy woundes to ake:</l>
+               <l>I pray for them as did <hi>Hymera</hi> old,</l>
+               <l>For <hi>Dioniſe,</hi> the tigtiſh tyran bold,</l>
+               <l>(Lord ſaue ſayd ſhee, our King from death, diſgrace,</l>
+               <l>For were he gone, a worſe would get his place)</l>
+               <l>Since in this poynt th'apodoſis is plaine,</l>
+               <l>I turne my ſtile vnto your Grace againe.</l>
+            </lg>
+            <lg n="6">
+               <l>6 If any friend in louing forme reueale</l>
+               <l>Twixt you and him your o'urſights, loue him well:</l>
+               <l>(Since <hi>Plato</hi> ſayes, the braueſt mindes bring foorth</l>
+               <l>Both hatefull vice, and vertue of moſt worth.</l>
+               <l>Wiſe <hi>Plutarch</hi> writes, in fertill <hi>Egipt</hi> grew</l>
+               <l>With medicable, enuenomd hearbes anew.)</l>
+               <pb facs="tcp:5553:8"/>
+               <l>Doe no rebuke, nor publique ſhame approue,</l>
+               <l>But friendly counſaile, which proceedes from loue:</l>
+               <l>Be not a drunke <hi>Cambiſes</hi> in diſpeire,</l>
+               <l>For counſell kind to kill <hi>Prexaſpes</hi> heire.</l>
+            </lg>
+            <lg n="7">
+               <l>7 Take <hi>Turinus,</hi> and ſmooke him to the death,</l>
+               <l>Who falſly ſels for bribes thy royall breath.</l>
+            </lg>
+            <lg n="8">
+               <l>8 Though <hi>Alexander</hi> in a raging ire,</l>
+               <l>For prayſing <hi>Philip</hi> his renouned Sire,</l>
+               <l>Kind <hi>Clitus</hi> kild, be thou more meeke in minde,</l>
+               <l>And to the prayſers of thy Parents kinde.</l>
+            </lg>
+            <lg n="9">
+               <l>9 Within thy heart let no iniuſtice hant,</l>
+               <l>Let not the wrong'd man weepe for iuſtice want:</l>
+               <l>
+                  <hi>Panſanias</hi> plaintes proud <hi>Philip</hi> did diſdaine,</l>
+               <l>And cruelly for his contempt was ſlaine.</l>
+            </lg>
+            <lg n="10">
+               <l>10 A Woman old fell downe vpon her knee,</l>
+               <l>And cryed <hi>Demetr. us,</hi> heare my plaints and mee?</l>
+               <l>I haue no leaſure anſwerd he againe.</l>
+               <l>Hee takes no leaſure ſayd the wife to reigne.</l>
+               <l>Doe not thine eares <hi>Demetrius</hi>-like obdure,</l>
+               <l>With patience heare the ſad and plaintiue poore.</l>
+            </lg>
+            <lg n="11">
+               <l>11 Proud <hi>Leo</hi> ſpoyld <hi>Iuſtinian</hi> his croune,</l>
+               <l>Deform'd his face, and cut his noſe quite doune:</l>
+               <l>But when he got his Diadems againe,</l>
+               <l>He puniſht thoſe that erſt procur'd his paine.</l>
+               <l>Each gut of rheume that from his noſe did floe,</l>
+               <l>Gaue argument for to cut off a foe.</l>
+               <l>O do not thou great Prince delight in blood!</l>
+               <l>Of crueltie thou know's can come no good;</l>
+               <l>Be thou <hi>Licurgus,</hi> though thou lackes ane ee.</l>
+               <l>Forgiue <hi>Alcander,</hi> make him man to thee.</l>
+            </lg>
+            <lg n="12">
+               <l>13 <hi>
+                     <g ref="char:V">Ʋ</g>itellius</hi>-like haue not a facill will,</l>
+               <l>Now to graunt grace, and ſtraight commaund to kill.</l>
+            </lg>
+            <lg n="13">
+               <l>13 Great are thy fortunes, farre beyond beleife.</l>
+               <l>Thou needes no Realmes, nor foraine rents by reife.</l>
+               <pb facs="tcp:5553:8"/>
+               <l>Thy minde may well luxuriat in thy wealth,</l>
+               <l>Thy Crown's are thine but blood or ſtrife or ſtealth:</l>
+               <l>And ſince thy fortunes are ſo rare: O than!</l>
+               <l>Each day with <hi>Philip, thinke thou art a man.</hi>
+               </l>
+            </lg>
+            <lg n="14">
+               <l>14 Though <hi>Agathocles Sicil</hi> did enioy,</l>
+               <l>Yet was he ſometime but a Potters Boy:</l>
+               <l>And that his pride ſhould not become too great,</l>
+               <l>In veſſels but of Loame he tooke his meate.</l>
+               <l>Thy witt's the weird's with great promotion tryes,</l>
+               <l>For woonder few are happy both and wiſe:</l>
+               <l>Though thou be free from blaſt's of any ſtorme,</l>
+               <l>
+                  <hi>Bee humill still, and keepe thy wonted forme.</hi>
+               </l>
+            </lg>
+            <lg n="15">
+               <l>15 Wreat not thy Law's with blood as <hi>Draco</hi> did,</l>
+               <l>The God of heau'n ſuch crueltie forbid:</l>
+               <l>A happie Life, makes ay a happie end,</l>
+               <l>Be thou a <hi>Solon, Dracois</hi> Law's to mend.</l>
+            </lg>
+            <lg n="16">
+               <l>16 <hi>Herodotus</hi> the Hiſtor, and right ſo</l>
+               <l>The Poet <hi>Pindars</hi> wreats, with many mo,</l>
+               <l>That Monarch's great, examples good ſhould giue,</l>
+               <l>Since from their Lords the Laiks learne to liue.</l>
+               <l>Kinkes be the glas, the verie fcoole, the booke,</l>
+               <l>Where priuate men do learne, and read, and looke:</l>
+               <l>Be thou th'attractiue Adamant to all,</l>
+               <l>And let no wicked wreſt thy wits to fall.</l>
+            </lg>
+            <lg>
+               <l>Goe not to <hi>Delphos</hi> where <hi>Apolio</hi> ſtands,</l>
+               <l>
+                  <hi>Licurgus</hi>-like with off'rings in thy hands,</l>
+               <l>By helliſh votes and oracles to ſee</l>
+               <l>What to thy Law ſhould paird or eiked bee:</l>
+               <l>From great <hi>Iehouah</hi> counſaile ſeeke, and hee</l>
+               <l>Shall giue both Gnom's and Oracles to thee,</l>
+               <l>And ſhall thy ſpir't with prudence ſo inſpire,</l>
+               <l>As all the world ſhall wonder and admire.</l>
+            </lg>
+            <lg n="17">
+               <l>17 From Countries farre great King behold and ſee,</l>
+               <l>With rich Oblations Legates come to thee:</l>
+               <pb facs="tcp:5553:9"/>
+               <l>With <hi>
+                     <g ref="char:V">Ʋ</g>exores,</hi> and <hi>Tanais</hi> be glaide,</l>
+               <l>Of fame and honour let it not be ſaide,</l>
+               <l>Thou art a greedie <hi>Ninus;</hi> fie for ſhame,</l>
+               <l>That were a ſtaine vnto thy Noble name.</l>
+            </lg>
+            <lg n="18">
+               <l>18 Laſt, ſince thou art the child of Peace, I ſee</l>
+               <l>Thy workes, and writes, are witnes both with mee:</l>
+               <l>(Thy workes I haue no leaſure to vnfold;</l>
+               <l>And though I had, are tedious to be told:</l>
+               <l>Thy Writes are wond'rous both in proſe and ryme)</l>
+               <l>Let Vertue waxe and flouriſh in thy tyme:</l>
+               <l>Though thou be beſt, and greateſt both of Kinges,</l>
+               <l>Mongſt Poets all, is none ſo ſweetely ſinges.</l>
+               <l>Thou art the ſweete <hi>Muſaeus</hi> of our dayes;</l>
+               <l>And I thy Prentice, and muſt giue thee prayſe:</l>
+               <l>Some other Writer muſt thy Woorth proclaime,</l>
+               <l>Thou ſhalt not ſing vpon thy ſelfe for ſhame:</l>
+               <l>Thou haſt tranſalpine Poets of thine owne,</l>
+               <l>Whoſe tragique <hi>Cothurus</hi> through the world are knowne:</l>
+               <l>Thou has likwiſe of home-bred <hi>Homers</hi> ſtore,</l>
+               <l>Poore <hi>Craige</hi> ſhall be thy <hi>Cheryl,</hi> and no more,</l>
+               <l>Since all my life ſuppoſe I Poetze,</l>
+               <l>I ſee ſeauin <hi>Philippeans</hi> muſt ſuffize:</l>
+               <l>Not that thou art not liberall at will;</l>
+               <l>No, no, wiſe Prince, but caus my Verſe are ill.</l>
+               <l>Yet ſince this furie is but lent to few,</l>
+               <l>Let vs not want, thou ſhale haue Verſe anew:</l>
+               <l>If theſe ſeeme pleaſant, I ſhall ſing againe;</l>
+               <l>If not, I will from being bold abſtaine,</l>
+               <l>And ceaſe to write; but neuer ceaſe to pray,</l>
+               <l>The God of heauen preſerue thee night and day.</l>
+            </lg>
+         </div>
+         <div type="panegyric">
+            <pb facs="tcp:5553:9"/>
+            <head>THE MOST VERTVOVS and accompliſhed Prince <hi>ANNA,</hi> Queene of <hi>Britane, Fraunce,</hi> and <hi>Ireland;</hi> Complaineth the abſence of her Lord and Spous <hi>IAMES,</hi> King of the foreſayd Realmes.</head>
+            <lg>
+               <l>WHere habit was, dwels ſad Priuation now,</l>
+               <l>And I am made an Orphane from delight:</l>
+               <l>To want the ſweete fruition of thy ſight,</l>
+               <l>In balefull bed my body when I bow,</l>
+               <l>Yea neither can I tell, nor can ye trow,</l>
+               <l>How blacke alace and noyſome is each night,</l>
+               <l>Nor yet how loathſome is this common light,</l>
+               <l>Since abſence made diuorſe twixt mee and you.</l>
+               <l>I am thy <hi>Phaebae,</hi> thou my <hi>Phaebus</hi> faire:</l>
+               <l>I haue no light nor life, but lent from thee,</l>
+               <l>Curſt then be abſence, cauſer of my care,</l>
+               <l>Which makes ſo long this loath'd eclipſe to bee.</l>
+               <l>What woonder I through lake of preſence pine?</l>
+               <l>Worm's haue alace their Sunne, and I want mine.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:5553:10"/>
+            <head>Scotlands Teares.</head>
+            <lg>
+               <l>WHen fabling <hi>Aeſop</hi> was at fatall <hi>Delphos</hi> tane,</l>
+               <l>And there by doome condem'd to be precipitat &amp; ſlane</l>
+               <l>He like a woman weep't, and tooke delight in teaires,</l>
+               <l>Cauſe they alleuiat and made leſſe the conſcience of his caires.</l>
+               <l>But <hi>Solon</hi> when he ſpi'd his deereſt ſonne was dead,</l>
+               <l>He weepd the more, becauſe his teaires to grief gaue no remead:</l>
+               <l>Yet neither he nor he by teaires could ſalue his ill,</l>
+               <l>Though of thoſe ſalt and fruitles flouds impetuus ſpaits they ſpil</l>
+               <l>Then maymed <hi>Scotland</hi> thou made Orphane from delight,</l>
+               <l>Whom all the hoſts of heauens abhor with vndeſeru'd deſpight.</l>
+               <l>With deeing <hi>Aeſop</hi> mourne, or wofull <hi>Solon</hi> weepe:</l>
+               <l>And tho as they, thou weepe in vaine let not thy ſorrow ſleepe:</l>
+               <l>With fruſtrat <hi>Aeſau</hi> ſhout, curſe life and wiſh to dee,</l>
+               <l>Since <hi>Iacob</hi> with his mothers helpe thy bleſsing ſteals from thee:</l>
+               <l>Now riuall <hi>England</hi> brag, for now, and not till now</l>
+               <l>Thou has compeld vnconquered harts &amp; ſturdy necks to bow.</l>
+               <l>What neither wits, nor wars, nor force afore could frame,</l>
+               <l>Is now accompliſht by the death of thy Imperiall Dame.</l>
+               <l>
+                  <hi>Eliza</hi> faire is gone, into the land of reſt,</l>
+               <l>To that <hi>Eliſium</hi> predecried and promis'd to the bleſt:</l>
+               <l>And <hi>England</hi> for her ſake now weaires the ſabill weede,</l>
+               <l>But <hi>Scotland</hi> if thou rightly looke thou has more cauſe indeede.</l>
+               <l>They for a <hi>Dian</hi> dead, <hi>Apolloes</hi> beames enioy,</l>
+               <l>And all their ſtraying ſteps allace, our <hi>Titan</hi> dooth tonnoy</l>
+               <pb facs="tcp:5553:10"/>
+               <l>Now dawn's their glorius day with <hi>Phoebus</hi> rayes beſpred,</l>
+               <l>And we are but <hi>Cymmerian</hi> ſlaues with gloomy clouds ou'reled.</l>
+               <l>Rich neighbour nation then, from thy complayning ceaſe:</l>
+               <l>Not thou, but we ſhould ſigh, &amp; ſo to our complaints giue place.</l>
+               <l>Our Garland lacks the Roſe, our chatton tins the ſtone,</l>
+               <l>Our Volier wants the <hi>Philomel,</hi> we left allace alone.</l>
+               <l>What art thou <hi>Scotland</hi> then? no Monarchie allace,</l>
+               <l>A oligarchie deſolate, with ſtraying and onkow face,</l>
+               <l>A maymed bodie now, but ſhaip ſome monſtrous thing,</l>
+               <l>A reconfuſed chaos now, a countrey, but a King.</l>
+               <l>When <hi>Paris</hi> fed his flockes among the <hi>Phrigian</hi> plaines,</l>
+               <l>
+                  <hi>Aenone's</hi> loue was his delights, his death were her diſdaynes.</l>
+               <l>But when allace he knew that <hi>Priam</hi> was his Sire,</l>
+               <l>He left <hi>Aenone</hi> ſweet, and ſyne for <hi>H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lene</hi> would aſpire.</l>
+               <l>Proud Pellex <hi>England</hi> ſo thou art the adulterat brid,</l>
+               <l>Who for <hi>Aenone</hi> thinkes no ſhame to lye by <hi>Paris</hi> ſid.</l>
+               <l>Who knowes ere it be long, but our your happy King,</l>
+               <l>With <hi>Belgic, Celtic, Aquitan,</hi> to his Empire may bring?</l>
+               <l>And he (why ſhould he not) your <hi>Troynauant</hi> ſhall leaue,</l>
+               <l>And vnto <hi>Pariſe</hi> ſpurre the poſt, his right for to receaue?</l>
+               <l>Then, then ſhall <hi>England</hi> weepe, and ſhed abounding teaires,</l>
+               <l>And we shall to our comfort find companions in our caires.</l>
+               <l>And till it ſo befall, with pitie, not with ſcorne,</l>
+               <l>Vpon this confinde Kingdome looke, as on a land forlorne:</l>
+               <l>Wiſe <hi>Plato</hi> would not once admit it in his minde,</l>
+               <l>He lou'd <hi>Xenocrates</hi> ſo well, he could become vnkinde,</l>
+               <l>And no more can we thinke dread Leige, though thou be gone,</l>
+               <l>Thou will vngratly leaue vs thus diſconſolat allone,</l>
+               <l>By Contrars Contrars plac'd, no dout moſt clearely kith,</l>
+               <l>And now thy abſence breedes our bale, whoſe biding made vs blith.</l>
+               <l>O were thou not both wiſe and good, we should not mourne,</l>
+               <l>We would not for thy abſence weepe, nor wish for thy returne.</l>
+               <l>Long ſleepe made <hi>Rufus</hi> looſe the vſe of both his eene.</l>
+               <l>O do not thou ſweet Prince make ſtay, leſt thou forget vs cleene</l>
+               <pb facs="tcp:5553:11"/>
+               <l>Like <hi>Epimenides</hi> when thou returns againe:</l>
+               <l>The ſhapp of al things ſhal be chaing':, thine own ſheepe ſhalbe ſlaine,</l>
+               <l>
+                  <hi>Democrit</hi> rather chooſe no King at all to bee,</l>
+               <l>Then ouer wicked men to rule, and ſuch allace are wee:</l>
+               <l>Our Iewell <hi>England</hi> ioyes, &amp; yet no way dooth wrong vs;</l>
+               <l>The world may ſee we were not worth, that thou ſhuld be among vs:</l>
+               <l>But ſince it muſt be thus, and thou art forc'd to flitt,</l>
+               <l>Now like a Heart in to the mids of thy great body ſitt:</l>
+               <l>And from thy <hi>Troynauant,</hi> which pleaſures ſtore impairts,</l>
+               <l>Behold thy Kingdom's round about thy hand in all the Airts;</l>
+               <l>Examples old thou taks, and layis before thy face,</l>
+               <l>The famous <hi>Numids</hi> thoght the midſt to be moſt honored place</l>
+               <l>Thus by <hi>Hyempſals</hi> ſide <hi>Adherbal Salust</hi> ſets,</l>
+               <l>And ſo <hi>Iugurtha</hi> in the midſt wee reed no intrance gets.</l>
+               <l>Graue <hi>Maro</hi> maks likway, the Queene of <hi>Cartage</hi> braue,</l>
+               <l>Betwix <hi>Aſcanius</hi> and the wiſe <hi>Aeneas,</hi> place to haue,</l>
+               <l>Dooth not <hi>Apollo</hi> too in proudeſt pompe appere,</l>
+               <l>With bright and day-adorning beames in his meridian ſphere?</l>
+               <l>So thou has chooſ'd the midſt, of all thy Kingdom's knowne;</l>
+               <l>For looke about thee where thou liſt, thou looks but on thine owne</l>
+               <l>And ſince the Gods decree (Great King) that ſo ſhall bee,</l>
+               <l>Since Peace muſt floriſh in thy time, &amp; Wars muſt ceaſe &amp; die,</l>
+               <l>But competition too, ſince thou has <hi>Englands</hi> Crowne,</l>
+               <l>Which was a <hi>Heptarchie</hi> of old, of vncontrould renowne,</l>
+               <l>Let Vs and <hi>Al-bi-on,</hi> that wee with one conſent,</l>
+               <l>One God, one King, one Law, may be t'adore, ſerue, keepe, con<g ref="char:EOLhyphen"/>tent.</l>
+               <l>In <hi>Rome</hi> the <hi>Sabins</hi> grew, with <hi>Tyrians Troians</hi> mixt,</l>
+               <l>And <hi>Iuda</hi> ioynd with <hi>Iſrael,</hi> but leaſt wee ſeeme prolixt,</l>
+               <l>And that our louing plaint's, and teares may now take end,</l>
+               <l>Thee to thy Crowns, thy Crowns to thee, the great good God defend.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:5553:11"/>
+            <head>CALIDONS COMPLAINT At the apparent Voyage to her <hi>England,</hi> of <hi>ANNA</hi> Queene of <hi>Great Britaine, France,</hi> and <hi>Ireland:</hi> with <hi>HENRIE</hi> Prince of <hi>Wales,</hi> her moſt gracious Sonne.</head>
+            <lg>
+               <l>AND ſhall no light at all to len vs light be left?</l>
+               <l>Shal Sunn, Moone, fixed &amp; thoſe ſmal erratic ſtars be reft?</l>
+               <l>And was it not ynough that <hi>Titan</hi> tooke the flight?</l>
+               <l>Might not ſweete <hi>Cynthia</hi> yet made ſtay for to haue lent vs light?</l>
+               <l>Since Sunne and Moone muſt goe, &amp; that bright <hi>Harie</hi> ſtarr,</l>
+               <l>Let <hi>Pluto</hi> now compare with vs in darknes if he darr,</l>
+               <l>From darknes was alace our deriuation old</l>
+               <l>The fatall name MKOTIA nought but darknes doth vnfold,</l>
+               <l>Shall our eſtate allace from ſtate be thus downthrowne,</l>
+               <l>Shal <hi>Scotland</hi> hensforth haue againe no cround K. of their owne?</l>
+               <l>Shal wee from King, Queene, Prince, &amp; all their brood diſſeuer?</l>
+               <l>And ſhall not <hi>Scotland</hi> be againe inhabited for euer?</l>
+               <l>Shall ghaſtly <hi>Ziim</hi> cry, and <hi>Oim</hi> make there ſport,</l>
+               <l>Within the Palaces where once but Monarch's made reſort?</l>
+               <l>At libertie alas ſhall <hi>Fauns</hi> and <hi>Satyrs</hi> lope,</l>
+               <l>And to a helliſh cold diſpare conuert our former hope:</l>
+               <l>And dare not <hi>Orpheus</hi> looke but once againe abacke?</l>
+               <l>Or ſhall wee finde nothing at all, but fundamentall wracke?</l>
+               <l>Would God that vmquhyle Dame (the wiſeſt Dame in deed,</l>
+               <l>That euer <hi>Britaine</hi> earſt hath borne, or yet againe ſhall breed)</l>
+               <l>Would God as yet ſhee were to brooke her trident Mace,</l>
+               <l>Then ſhuld we not bin poynted at for wrake, ſcorne, &amp; diſgrace</l>
+               <l>Thou ſaild the glaſsie ſalt and conquered endles fame,</l>
+               <pb facs="tcp:5553:12"/>
+               <l>In prime of loue Heroic Prince, to ſee thy <hi>Daniſh</hi> Dame,</l>
+               <l>In ſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eing towrs of tree thou croc'd the bounded Roares,</l>
+               <l>And brought our Queene, thy ſacred Spous to <hi>Calidonian</hi> ſhoares wind,</l>
+               <l>O let not loue wax cold! nor be not now vnkind,</l>
+               <l>Thou need not feare for foamie floods, nor pray for proſperous</l>
+               <l>Since ſhee ſweet Dame is ſeik, thy Sonn but young in yeers,</l>
+               <l>With <hi>Cancer Leo</hi> burns aboue into their torrid Spheers:</l>
+               <l>Make then a bleſ'd returne to ſee them both againe,</l>
+               <l>But ô allace! wee ware thoſe words vnto the winds in vaine:</l>
+               <l>For they muſt go to thee; more to increas our cairs,</l>
+               <l>And leaue no thing behind them here, but ſorow, ſighs, &amp; teairs.</l>
+               <l>The<g ref="char:cmbAbbrStroke">̄</g> wherto ſerue thoſe plaints? who know's what is appoynted,</l>
+               <l>Or what the Deſtanies decrees to do with their Anoynted.</l>
+               <l>Nor <hi>Dou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ir,</hi> nor thoſe <hi>Alps,</hi> nor <hi>Tybers</hi> volted Arche,</l>
+               <l>Vnto that <hi>Archunonarche</hi> great King <hi>Iames</hi> muſt be a Marche:</l>
+               <l>The heauins of the great Prince hade care in to thy Coode,</l>
+               <l>And kept thee when thou no thing knew of ather bad or good.</l>
+               <l>How many treaſons ſtrange, and conſpirations great,</l>
+               <l>Haue bin contriu'd againſt thy crowne, &amp; ſtanding of thy ſtate?</l>
+               <l>Before thou was, and ſince thou has eskaip'd huge ſnairs.</l>
+               <l>Be blithe <hi>Tued</hi> march'd thy kingdoms once, &amp; now muſt march thy cairs</l>
+               <l>Thy name ſhal be enough to conquer ſeas &amp; lands,</l>
+               <l>And manumit afflicted <hi>Grece</hi> from <hi>Turks</hi> and tyrans hands.</l>
+               <l>When <hi>Rome</hi> ſhall be ſubdew'd, may thou no go abroad,</l>
+               <l>And make <hi>Bizantium</hi> old obey the great alguiding God.</l>
+               <l>But if thou greyus great King our greiued harts to glade,</l>
+               <l>Of thy triennall viſiting, performe thy promeis made.</l>
+               <l>Faire gracious Dame, whoſe match nor was, nor ſhall be ſeene,</l>
+               <l>Though fortune ſmile, reme<g ref="char:cmbAbbrStroke">̄</g>ber yet that thou was firſt our Queene</l>
+               <l>Accompleiſd peereles Prince in body both and mind,</l>
+               <l>Thinke on thy natiue ſoyle with loue, and be not cald vnkind:</l>
+               <l>And ſo ſince King, Queene, Prince, and all our all muſt go,</l>
+               <l>The Trinitie aboue preſerue this Trinitie be-low.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:5553:12"/>
+            <head>ELIAZABETH, LATE QVEENE OF ENGLAND, HER GHOST.</head>
+            <lg>
+               <l>CEaſe louing Subiects, ceaſe my death for to deplore,</l>
+               <l>And do no more with dririe cryes my dolful hearſe decore</l>
+               <l>Though like <hi>Cynegirus,</hi> when both the hands are gone,</l>
+               <l>Yee would detaine me with your teeth in my Emperiall throne.</l>
+               <l>Bee <hi>Thracians</hi> now I pray, and hence-foorth ceaſe to mone,</l>
+               <l>Ere it be long in quiet peace ye ſhall finde fiue for one:</l>
+               <l>For if you can beleeue my prophetizing ghoſt,</l>
+               <l>
+                  <hi>Aeneas</hi> gaue <hi>Anchiſes</hi> truſt, you ſhall not thinke me loſt.</l>
+               <l>The death of one (ſome ſay) the birth of one ſhould bee:</l>
+               <l>Three mails &amp; femels two you haue, moſt famous fiue for mee:</l>
+               <l>For as I ſeald my Will, my Deſignation dew,</l>
+               <l>And did concredit by the reſt to my <hi>Achates</hi> trew:</l>
+               <l>So now my ghoſt is glad, that by my care his paine,</l>
+               <l>My countries haue their lawfull King, the King his crowns a<g ref="char:EOLhyphen"/>gaine,</l>
+               <l>Then branſh imbelliſ'd ſoyle, moſt pleaſant, moſt perfite:</l>
+               <l>The onely earthly <hi>Eden</hi> now for pleaſure and delighte.</l>
+               <l>Rich <hi>England</hi> now reioyce, heaue vp to heauen thy hands.</l>
+               <l>The bleſſed Lord hath bleſt thy bounds beyond al other lands.</l>
+               <l>Since no <hi>Sardanapal</hi> is now become thy King,</l>
+               <l>No <hi>Dioniſe</hi> nor <hi>Nero</hi> proud, my death to thee doth bring.</l>
+               <l>A King vnwoont to giue, or yet to take offence:</l>
+               <l>A godly <hi>Dauid</hi> ruleth now, a Prophet and a Prince.</l>
+               <pb facs="tcp:5553:13"/>
+               <l>The Pupill now is blith, the Widow weepes not now,</l>
+               <l>No depredations in thy boundes, the Ruſhbuſh keeps the Kow,</l>
+               <l>The Lyons now agree, and do in Peace delight:</l>
+               <l>The Thirſel now defends &amp; guards the red Roſe &amp; the white.</l>
+               <l>The britiſh Saints ſhake hands with croſſes ioynd and ſpred,</l>
+               <l>Whoſe cullours on the glaſsie ſalt no terror ſmall haue bred:</l>
+               <l>Thoſe now conioynd in one through <hi>Neptuns</hi> bounded roares,</l>
+               <l>Shal make the ventring mercheand ſail ſecure to forane ſhoares:</l>
+               <l>Flee ſwift-wingd Fame &amp; tell the beſt &amp; rareſt new's</l>
+               <l>That time hath yet brought ſoorth by night or dayes delightfull hew's,</l>
+               <l>For Ships &amp; Swans moſt rich, moſt faire, &amp; ſamous <hi>Thamis,</hi>
+               </l>
+               <l>Tell <hi>Neptune, Thetis, Triton</hi> too the haps of great king <hi>IAMES.</hi>
+               </l>
+               <l>Thou murdring <hi>Galliglas,</hi> who long my Laws withſtood,</l>
+               <l>Learne to obey, and bath no more thy blade in britiſh blood:</l>
+               <l>All you my Subiects deire, do homage dew to him,</l>
+               <l>And that ſhal make my bleſſed ghoſt in boundles ioyes to ſwim.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb facs="tcp:5553:13"/>
+            <head>SONET, To his Maieſtie of the Vnion of the two famous Realmes <hi>Scotland</hi> and <hi>England.</hi>
+            </head>
+            <lg>
+               <l>
+                  <hi>SCilurus</hi> had twice fourtie Children male,</l>
+               <l>And teaching them in peace to paſſe their dayes,</l>
+               <l>And that no foe ſhould gainſt their force preuale,</l>
+               <l>His louing minde hee wiſely thus bewrayes:</l>
+               <l>A bundle of Darts before their eyes he layes,</l>
+               <l>And pray'd each Sonne to breake the ſame: at length,</l>
+               <l>When hee and hee to cruſh thoſe Darts aſſayes,</l>
+               <l>But all in vaine; hee told them Vnions ſtrength.</l>
+               <l>You are a Father, and a famous Prence,</l>
+               <l>Great are the bounds which are great King thine owne,</l>
+               <l>And like a ſacred <hi>Scilure</hi> in this ſence,</l>
+               <l>Keepes <hi>Britaine</hi> whole, leaſt it ſhould be ouerthrowne.</l>
+               <l>The God of heau'n effect what thou intends,</l>
+               <l>And bring thy proiects to their happie ends.</l>
+            </lg>
+         </div>
+         <div type="sonnets">
+            <pb facs="tcp:5553:14"/>
+            <head>To the Queens moſt Excellent Maieſtie.</head>
+            <div type="sonnet">
+               <head>1. SONET.</head>
+               <lg>
+                  <l>IN <hi>Pallas</hi> Church did wretched <hi>Irus</hi> ſtand,</l>
+                  <l>And ſaw her paynted on the Chalk-whit wall,</l>
+                  <l>With Booke in one, and Sword in other hand:</l>
+                  <l>And on his face (poore ſoule) did flatlings fall.</l>
+                  <l>Syne ſayd aloud, ſince I allace am thrall</l>
+                  <l>To pouertie, that I may not propine</l>
+                  <l>Thy Godhead great, with gift nor great nor ſmall,</l>
+                  <l>Yet while I liue, my ſeruice ſhall be thine.</l>
+                  <l>So all the pow'rs of this my poore Ingyne,</l>
+                  <l>Shall bee (Faire Dame) employed to pen thy praiſe.</l>
+                  <l>Thou in Cymmerian gloomie darke ſhall ſhyne,</l>
+                  <l>And on thy Vertues, worlds to come ſhall gaize.</l>
+                  <l>Thus <hi>Irus</hi>-like wiſe <hi>Pallas</hi> I adore,</l>
+                  <l>And honour thee, ſince I can do no more.</l>
+               </lg>
+            </div>
+            <div type="sonnet">
+               <head>2. SONET. Of her Highnes Natall; being the ſhorteſt day.</head>
+               <lg>
+                  <l>GReat mightie <hi>IOVE</hi> from his imperiall place,</l>
+                  <l>And all the <hi>GODS</hi> for blythnes of <hi>Thy Birth,</hi>
+                  </l>
+                  <l>Came downe from Heau'n to ſee thy faireſt face,</l>
+                  <pb facs="tcp:5553:14"/>
+                  <l>Glad to Be guarded by thy beauties girth.</l>
+                  <l>And <hi>Neptune</hi> fet his Flocks out through the Firth,</l>
+                  <l>With all the <hi>Nymphs</hi> in Floods and Seais that dwell:</l>
+                  <l>On <hi>Balens</hi> backs they mounted, made their mirth,</l>
+                  <l>To ſee thy ſhapp, all leiuing leids excell:</l>
+                  <l>And <hi>Phoebus</hi> father to the Fooll that fell,</l>
+                  <l>In loweſt ſtate his yocked Horſe did ſtay;</l>
+                  <l>But fearing leaſt thy beam's ſhould burne him ſell,</l>
+                  <l>Hee ſtole aback, and vpward went away.</l>
+                  <l>And for thy ſaik thy Natall day each yeir,</l>
+                  <l>He viſits yet into his loweſt ſpheir.</l>
+               </lg>
+            </div>
+            <div type="sonnet">
+               <head>3. SONET. New yeir Gift.</head>
+               <lg>
+                  <l>THis Apill round I ſend, ô matchles fare!</l>
+                  <l>As children do for thryſe als good agane,</l>
+                  <l>Not ſuch as that by which th' <hi>Enbean</hi> rare,</l>
+                  <l>The loue of his <hi>Atlanta</hi> ſuift did gane:</l>
+                  <l>Nor that by which <hi>Acontius</hi> did beguile</l>
+                  <l>
+                     <hi>Cydippe</hi> ſweet in ſacred <hi>Dian's Fane.</hi>
+                  </l>
+                  <l>My minde abhors all ſuch inuention vile,</l>
+                  <l>No ſecre it ſlight doth in my gift remane:</l>
+                  <l>It more reſembleth that which <hi>Ate</hi> threw</l>
+                  <l>Mongſt <hi>Pallas, Iuno, Venus,</hi> Dames diuine.</l>
+                  <l>To thee great <hi>Queene</hi> of all this courtly crew,</l>
+                  <l>I do preſent this paynted A pill mine.</l>
+                  <l>Were it of Gold, or Paris I, faire Dame,</l>
+                  <l>It ſhould be thine, thou beſt deſeru's the ſame.</l>
+               </lg>
+            </div>
+            <div type="sonnet">
+               <pb facs="tcp:5553:15"/>
+               <head>4. SONET.</head>
+               <lg>
+                  <l>THoſe famous old <hi>Gymnoſophiſts</hi> of <hi>Inde,</hi>
+                  </l>
+                  <l>Which <hi>Alexander</hi> did ſo much admire,</l>
+                  <l>And compted but as churliſh and vnkinde,</l>
+                  <l>Cauſe they refus'd his offred Gold and geir.</l>
+                  <l>Their greateſt care and ſtudie was we heir,</l>
+                  <l>To view and marke the motions of the Sunn,</l>
+                  <l>To know his courſes in his Zodiac Spheir.</l>
+                  <l>From <hi>Phoſpor's</hi> ryſing till the night begun.</l>
+                  <l>Such is my ſtate, O ſacred Saint by thee,</l>
+                  <l>I am a poore Gymnoſophiſt of thine,</l>
+                  <l>Thou art that <hi>Sunn</hi> which I delight to ſee,</l>
+                  <l>No wealth I wiſh but that on mee thou ſhine.</l>
+                  <l>They long'd for night, ſo long-ſome was their day,</l>
+                  <l>Blithe would I bee for to behold thee ay.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:5553:15"/>
+            <head>TO THE VERTVOVS AND ACCOMPLISHED Sir <hi>IAMES HAY</hi> Knight, one of his Highnes moſt royall bed-chamber.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen a bad Wreſtler became a knauiſh Phi<g ref="char:EOLhyphen"/>ſition, Courage (ſaid <hi>Diogenes</hi> to him) thou has reaſon ſo to doe; for now ſhalt thou helpe to put them in the ground, who heretofore haue layd thee on it. I am from a luckles louer, become an infortunat Poet, and haue determined with Courage, to write Ditties againſt my riuall, that breedes my diſgraces, and with <hi>Archilochus, Iambics,</hi> I minde to make <hi>Lycambes</hi> hang him ſelfe. <hi>Agrippina</hi> foretold by Aſtro<g ref="char:EOLhyphen"/>logues, that her Sonne <hi>Nero</hi> ſhould kill her: anſwered. Let him kill mee, ſo he may be Emperour, and ſucceed to <hi>Claudius:</hi> all my ſenſes in wofull lingage (which makes me begge thy patrocinie) like facidic Astrologs tell me my Pamphlet of the <hi>Cuckoe</hi> and <hi>Philomel,</hi> ſhalbe vnwelcome to many, and receiue strange Com<g ref="char:EOLhyphen"/>mentartes: but if you be content, I care not; my greateſt ambition is to breed your content: my pleaſure to pleaſe you, whoſe Ada<g ref="char:EOLhyphen"/>mantiue vertues haue drawne the Yron of my loue. In publique or priuate, in peaceable negotiations, or occupations to leiue, or die greatly, or gloriouſly, I know no forme or fortune of man, I can admire or regard with ſo much honour, with ſo much loue; yea, at all aduentures of life &amp; death, thou mayeſt command.</p>
+            <closer>
+               <signed>Thine owne poore friend and ſeruient, CRAIGE.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:5553:16"/>
+            <head>THE CVCKOE, AND PHILOMEL.</head>
+            <head type="sub">CRAIGE to his Riuall.</head>
+            <lg>
+               <l>THE <hi>Cucko</hi> once (ſome ſay) would <hi>Philomel</hi> aſſaile,</l>
+               <l>
+                  <hi>Arachne</hi>-like, if ſhee or ſhee in ſinging ſhould preuaile:</l>
+               <l>The garrient <hi>Goke</hi> would needs with <hi>Prognes</hi> ſiſter ſtriue,</l>
+               <l>And proudly preaſe poore <hi>Philomel</hi> of dew praiſe to depriue</l>
+               <l>Then was the long eard <hi>Aſſe</hi> made Iudge vnto their Song,</l>
+               <l>Who with the <hi>Cucko</hi> ſentence gaue, &amp; wrought the other wrong.</l>
+               <l>O Arbiter vnfit to ſuch diſcording tunes,</l>
+               <l>Yet iarring notes from <hi>Layis</hi> diuine rude Nature ſtill ſeiuns.</l>
+               <l>This mak's poore <hi>Philomel</hi> repent, and oft repeit,</l>
+               <l>In thornie braiks by ſabill night th' <hi>Arcadian</hi> beaſts decreit.</l>
+               <l>Such is my carefull caſe, my riuall foe I ſee,</l>
+               <l>For all theſe charming Songs of mine is farr preferd to mee:</l>
+               <l>For all the Sonnets ſweet that I can ſing or ſay,</l>
+               <l>Or ſend to her, I cum no ſpeid, the <hi>Cucko</hi> is my ſtay:</l>
+               <l>And ſhee whom ſtill I ſerue, moſt like that long eard beaſt,</l>
+               <l>Maks mee by her decreit to leue inglorious and diſgrac't.</l>
+               <l>But what remeid I reſt, content to want reward,</l>
+               <l>Since <hi>Cuckoes</hi> are in ſuch accompt, and <hi>Philomel</hi> debard.</l>
+               <l>Since <hi>Phoebus</hi> ſtcops to <hi>Pan,</hi> and <hi>Minerue</hi> glad to yeild</l>
+               <l>Vnto th'inuennomd Spiders webb, I gladly looſe the feild,</l>
+               <l>Yet ſhall I ſtill complaine, nay ſhall ſhee heir mee ery,</l>
+               <l>The <hi>Philomel</hi> ſings to her ſelfe, and hencefoorth ſo ſhall I.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:5553:16"/>
+            <head>APOLOGIE FOR HIS RIVAL.</head>
+            <lg>
+               <l>THE <hi>Cucko</hi> once (tis trew) in ſinging, did compare</l>
+               <l>With <hi>Prognes</hi> ſiſter <hi>Philomel, Pandions</hi> daughter faire:</l>
+               <l>And then the <hi>Aſine</hi> graue, pronounc'd a ſentence trew,</l>
+               <l>For many arguments, of which fond Riual read thoſe few.</l>
+               <l>The <hi>Cucko</hi> with ſweet ſongs ſaluts the yeerly Spring,</l>
+               <l>Poore <hi>Philomel</hi> in tragic tunes of <hi>Terens</hi> wrongs doth ſing.</l>
+               <l>Through tops of talleſt trees the ſoaring <hi>Cucko</hi> flies,</l>
+               <l>While <hi>Philomel</hi> in loweſt ſhrubs complains, diſpairs, &amp; dies.</l>
+               <l>The <hi>Cuckoes</hi> not's declare of humane life the date,</l>
+               <l>While hart-broke <hi>Philomel</hi> muſt ſtill her painefull plaints re<g ref="char:EOLhyphen"/>peate.</l>
+               <l>The <hi>Cucko</hi> ſings her name, no borrowed note nor ſtrange,</l>
+               <l>While <hi>Philomel</hi> for <hi>Itis</hi> blood, a thouſand tunes muſt change.</l>
+               <l>The <hi>Titling</hi> doth attend the <hi>Cucko</hi> late and aire,</l>
+               <l>And of her egs and Plumeles birds ſhe taks continuall care,</l>
+               <l>None tends poore <hi>Philomel,</hi> for all her charms and chrils,</l>
+               <l>Yea if ſhe fleip, the poynted thorne out-through her breiſt-bone thrils</l>
+               <l>The <hi>Cucko</hi> ſpends the Spring in mirth both eue and morne,</l>
+               <l>And to the ielus heirar ſtill portends the forked Horne.</l>
+               <l>At <hi>Iunoes</hi> ſute great <hi>Ioue</hi> became a <hi>Cucko</hi> faire:</l>
+               <l>Why ſhuld the brood of <hi>Grecian</hi> Kings, with Gods aboue com<g ref="char:EOLhyphen"/>paire?</l>
+               <l>Then <hi>Phoebus</hi> ſtoope to <hi>Pan,</hi> be <hi>Minerue</hi> glad to yeeild</l>
+               <l>Vnto th'inuennomd Spiders web, for thou muſt looſe the feild:</l>
+               <l>And thou muſt be content to weepe, and want reward,</l>
+               <l>Since <hi>Cuckoes</hi> are in ſuch accompt, and <hi>Philomel</hi> debard.</l>
+               <l>Thou to thy ſelfe complains, alone thou weepes and murns,</l>
+               <l>Do ſo poore ſoule till fortune change, whoſe fauour goes by turns.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:5553:17"/>
+            <head>APPELLATION TO THE LION.</head>
+            <lg>
+               <l>THe Lion ſome time went abroade to ſpy his pray,</l>
+               <l>And with the Fox he made the Aſſe co<g ref="char:cmbAbbrStroke">̄</g>panions of his way,</l>
+               <l>Through wildſome wayles wayes, &amp; foraine fells they fare,</l>
+               <l>To find ſome food, which found, the Aſſe wold needs diuide &amp; ſhare,</l>
+               <l>And thus triparts the pray, and ſets his terce aſide:</l>
+               <l>Yet died therefore; iuſt puniſhment of ignorance and pride.</l>
+               <l>But lo the fraudfull Fox did greeid and greife diſgyſe,</l>
+               <l>And by the Aſins miſerie with wealth of wils was wyſe,</l>
+               <l>Now neither perrils paſt, nor no examples new,</l>
+               <l>Can mooue the Aſins of this age; O damn'd iudocil crew:</l>
+               <l>That long eaird beaſt my Iudge hath made my riuall ſleepe,</l>
+               <l>Fools concolor in fauours lap, while I poore wretch muſt weepe.</l>
+               <l>Then <hi>Lion</hi> great of <hi>Kings,</hi> and <hi>King</hi> of <hi>Lions</hi> all,</l>
+               <l>To thee my Soueraigne and my Iudge, I do appeale and call:</l>
+               <l>Thou heares and ſees my wrongs, thou muſt dread Leige alone</l>
+               <l>Correct the <hi>Cucko,</hi> and detrude the Asine from his throne.</l>
+               <l>I like <hi>Xantippus</hi> Dogg, haue faund and followed thee,</l>
+               <l>And will thou ſuffer mee in ſight of <hi>Salamin</hi> to die.</l>
+               <l>It greeues my heart to ſee thoſe <hi>Cuckoes</hi> of the Spring,</l>
+               <l>Thoſe tamed beaſts, whom <hi>Bion</hi> haits, what flattering tunes they ſing.</l>
+               <l>I burſt when I behold braue <hi>Homers</hi> Cloake ſo bare,</l>
+               <l>When cu'ry foole &amp; ſimple ſheepe the golden fleece doth weare</l>
+               <l>To thee alone I flie, in hope to find refuge:</l>
+               <l>Why ſhould the leaud and laſie Aſſe to numered lyus be Iuge?</l>
+               <l>My Fortune and my Fate do both depend on thee,</l>
+               <l>My Spring expireth, ſhall I ſing, or ſhall I ſilent bee?</l>
+               <l>Set downe thy ſentence heir, and quickly cure my care,</l>
+               <l>Or let my wretched life take end twixt ſilence and diſpare.</l>
+            </lg>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:5553:17"/>
+            <head>EPISTLE TO HIS FRIEND.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Am fully perſwaded, that no man lyuing hath a more forgetfull minde of benefits receiued, then my ſelfe; and none more malitiouſly mindfull of ſmalleſt iniuries, then miſerable I: In the firſt a <hi>Meliti<g ref="char:EOLhyphen"/>des,</hi> who could not number fiue: In the laſt, a vindictiue <hi>Darius,</hi> who leaſt hee ſhould forget the wrongs he receiued from the <hi>Athenians,</hi> cauſed his Paige when ſoeuer he ſate downe to his Table, ſing to him, <hi>Sir remember the Athenians.</hi> Thy courta<g ref="char:EOLhyphen"/>ſies, thy louing kindnes, thy hoſpitalitie, patrocinie in perels, and thy omnerited munificence are all forgotten, and thy leaſt eſcapes (Anonym friend) are here too much remembred, which both condems thy inconſtancie, and my vnkindnes: thy waue<g ref="char:EOLhyphen"/>ring, and my weaknes. The <hi>Pythagorians</hi> make good to be finit, and euill infinit: ſo is humane waikenes redier to repay in greatest meaſure the ſmallest euill, then to repay in ſmalleſt mea<g ref="char:EOLhyphen"/>ſure the greatest good receiued: read then () thy faults, and my follies: and while thou reads, mend the firſt in thy ſelfe, and pittie the laſt in</p>
+            <closer>
+               <signed>Thine old, and if thou will, yet louing Frend, CRAIGE.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:5553:18"/>
+            <head>TO HIS ANONIM FREIND and Miſtres <hi>PALINODE.</hi>
+            </head>
+            <lg>
+               <l>IN Annals old we read <hi>Ioue</hi> had but daughters two,</l>
+               <l>The one with <hi>Ceres</hi> he begat, <hi>Proſerpine</hi> hight, and ſo</l>
+               <l>Her for her beauties ſaik, proud <hi>Pluto</hi> Prince of hell,</l>
+               <l>Amid the flowrie medowes ſpoild, and keepes vnto him ſell:</l>
+               <l>The other <hi>Helene</hi> ſayre in likeneſſe of a Swan,</l>
+               <l>He gat with <hi>Laeda,</hi> and beguild poore <hi>Tyndarus</hi> her man,</l>
+               <l>Hir <hi>Theſeus</hi> tooke away, and had to <hi>Athens</hi> home,</l>
+               <l>And made her <hi>Hymens</hi> rupture long ere <hi>Menelaus</hi> come.</l>
+               <l>Thus <hi>Ioue</hi> no daughter had vnſpoyld at all you ſee,</l>
+               <l>Yet muſt <hi>Pirithous</hi> haue one to keepe his oath, or dee.</l>
+               <l>Braue <hi>Theſeus</hi> was his friend, his loue he would not haue:</l>
+               <l>Then muſt <hi>Proſerpine</hi> be ſpoild from <hi>Plutoes</hi> pitchie caue:</l>
+               <l>(For who can be content bright beautie ſhould be chaind,</l>
+               <l>Or in <hi>Cymmerian</hi> gloomy darke with <hi>Dis</hi> ſhould be detaind?)</l>
+               <l>Thus to the hells he haiſts, and is by <hi>Cerber</hi> ſlaine:</l>
+               <l>And <hi>Theſeus</hi> till <hi>Alcides</hi> came, in fetters did remaine:</l>
+               <l>O monument moſt rare of true and perfect loue,</l>
+               <l>Which neither beautie nor the hells could any way remoue.</l>
+               <l>Though <hi>Tyndaris</hi> was blaz'd the brighteſt that hath beene,</l>
+               <l>
+                  <hi>Pirithous</hi> would from her loue for <hi>Theſeus</hi> loue abſteene:</l>
+               <l>And when <hi>Pirithous</hi> tooke iourney towards hell,</l>
+               <l>Braue <hi>Theſeus</hi> would accompany his friend, as ſtories tell:</l>
+            </lg>
+            <lg>
+               <l>But faith, nor truth on earth, nor friendſhip now is naine,</l>
+               <l>And <hi>Pithias</hi> now will looſe his life, or <hi>Damon</hi> come againe.</l>
+               <l>There is no loue allace vpon this mournefull molde,</l>
+               <l>Leaſt <hi>Mydas</hi>-like a man may turne each thing by tuch in golde.</l>
+               <pb facs="tcp:5553:18"/>
+               <l>Falſe <hi>Eriphile</hi> now regards but greeid of gaine,</l>
+               <l>And will betray <hi>Amphiaraus</hi> to get a golden chaine.</l>
+               <l>The <hi>Belidean</hi> Dames in number fiue times ten,</l>
+               <l>(There is no <hi>Hypermneſtra</hi> now) will kill their maried men.</l>
+               <l>Falſe proud <hi>Polinices</hi> will <hi>Theban</hi> crowne poſſeſſe,</l>
+               <l>And baniſh poore <hi>Eteocles</hi> gainſt parents will expreſſe:</l>
+               <l>And proud <hi>Plexirtus</hi> too <hi>Leonats</hi> baſtard brother,</l>
+               <l>Makes <hi>Tydeus</hi> ſtriue with <hi>Tolenor,</hi> and one to kill the other.</l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>rania Klaius</hi> ſturs with <hi>Strephen</hi> ſtill to ſtriue.</l>
+               <l>Nor can the Prince of <hi>Macedon</hi> find <hi>Muſidor</hi> online.</l>
+            </lg>
+            <lg>
+               <l>Thus looke from ſex to ſex, no fayth nor truth remains,</l>
+               <l>Crow's flee but where the Carion lyes, &amp; worldlings go for gains,</l>
+               <l>I ſpeak not now allace, by ſpeculation vaine,</l>
+               <l>A practique in my perſone paſt procurs my peereles paine:</l>
+               <l>For why, I ſom-time had a Miſtres and a Freind,</l>
+               <l>She fals falte frequent to that ſex: hee les woorth nor I weind;</l>
+               <l>She limping <hi>
+                     <g ref="char:V">Ʋ</g>ulcan</hi> ſtill admits in <hi>Mauors</hi> bed,</l>
+               <l>Hee like a ſubtill <hi>Sinon</hi> goes in <hi>Damons</hi> liuerie cled:</l>
+               <l>Shee <hi>Pluto</hi> black for me doth in her bed imbrace,</l>
+               <l>Hee but a caus hath caſt me off: O carecontryuing caſe.</l>
+               <l>Was thou not once to mee <hi>Pandora</hi> deir and ſweit,</l>
+               <l>Till thou vntyed the balefull box with painefull plages repleit.?</l>
+               <l>And was thou not againe a <hi>Kallias</hi> vnto mee?</l>
+               <l>But fooliſh <hi>Alcibiad</hi> I, to truſt ſo much in thee.</l>
+               <l>Then, Som-time Freind, farewel; farewell my late loſt Loue:</l>
+               <l>A <hi>Lais</hi> light, a <hi>Sinon</hi> fals, thus maks mee to remoue.</l>
+               <l>Betwix this doolefull deuce, how can my dayes indure,</l>
+               <l>Sence he hath playd the hypocrit, and ſhee the hatefull hoore?</l>
+               <l>And yet for kindnes old, I will conceyl your names,</l>
+               <l>And make your conſcience black, a Iudge to both your ſecret ſhames:</l>
+               <l>And ſence both thou, and thou, haue thus contriu'd my fall,</l>
+               <l>
+                  <hi>Dis</hi> keeps my Dame, <hi>Dis</hi> katch my freind, &amp; make me free of all.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb facs="tcp:5553:19"/>
+            <head>SONET.</head>
+            <lg>
+               <l>I Some time had a Miſtres, and a Freind;</l>
+               <l>Shee fair, hee good; and louely both to mee:</l>
+               <l>But both are wax'd vnwoorthier nor I weind:</l>
+               <l>Deceitfull ſhee, and moſt vnconſtant hee:</l>
+               <l>Thus for each lyne, I giue my ſelfe a lye,</l>
+               <l>That heretofore in to their praiſe I pend,</l>
+               <l>Hee, ſhee, and I, are alwayes chayng'd all three:</l>
+               <l>They firſt, I laſt; and thus our Loues muſt end.</l>
+               <l>Trew Friends allace, lyke blackeſt Swans are rare,</l>
+               <l>And fayreſt faices full of moſt deceat.</l>
+               <l>This cauſes mee alone for to regreat,</l>
+               <l>And from each eye to wring a bloodie teare:</l>
+               <l>And ſince no ſex beneath the Sunne is trew,</l>
+               <l>Falſe friend fareweell, faire facill Dame adew.</l>
+            </lg>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:5553:19"/>
+            <head>To his Calidonian MISTRIS.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Hemiſtocles</hi> after a great Victorie by nauall Bat<g ref="char:EOLhyphen"/>tell, came to viſite the ſlaughtered bodyes of his Enemies, and found by the Sea ſide many Iewels and Chaynes ſcattered. Then ſaid he to his freind who then by chaunce fol<g ref="char:EOLhyphen"/>lowed him, Gather theſe ſpoyles, for thou art not <hi>Themiſtocles.</hi> This worthles Epiſtle like a looſe or neglected Iewell, though the wiſe and woorthy <hi>Themiſtocles</hi> ouerpas, I pray thee ſweete Mi<g ref="char:EOLhyphen"/>ſtes peruſe and preſerue, leaſt it periſh; ſence too, and for thee, it is done: when I am abſent, or dead, it may breed thy delight, and make thee haplie remember thou once had</p>
+            <closer>
+               <signed>A louing and kind man, CRAIGE.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:5553:20"/>
+            <head>TO HIS CALIDONIAN MISTRIS.</head>
+            <lg>
+               <l>WHEN I remember on that time, that place,</l>
+               <l>Where firſt I fix'd my fanſie on thy face,</l>
+               <l>The circumſtances how, why, where, and whan</l>
+               <l>My Miſtres thou, and I became thy Man:</l>
+               <l>Whilſt I repeat that proces full of paine,</l>
+               <l>How firſt we met, and how we twind againe,</l>
+               <l>Our ſweete acquaintance, and our ſad depart,</l>
+               <l>It breedes a ſea of ſorrowes at my hart:</l>
+               <l>And yet for all theſe ſorrowes I ſuſteine,</l>
+               <l>With ſigh ſwolne hart, and teares bedewed eyne,</l>
+               <l>As I haue lou'd, ſo ſhall I loue thee ſtill</l>
+               <l>Vnto the death, hap either good or ill.</l>
+               <l>And now I ſweare by that true loue I owe thee,</l>
+               <l>By all the ſighs which day by day I blow thee:</l>
+               <l>By all the verſe and charming words I told thee,</l>
+               <l>By all the hopes I haue for to beholde thee:</l>
+               <l>By all the kiſſes ſweete which I haue reft thee,</l>
+               <l>And all the teares I ſpent ſince laſt I left thee:</l>
+               <l>That abſence helps (not hinders my deſire)</l>
+               <l>And ſets new force and Fagots to my fire:</l>
+               <l>Each thing that chance preſents and lets me ſee,</l>
+               <l>Brings arguments and bids me thinke on thee.</l>
+               <l>For when they told me of that wrathfull flame,</l>
+               <l>Which from the high and holy heau'n downe came</l>
+               <l>On <hi>Pauls</hi> faire Church, and that cloud-threatning Steeple,</l>
+               <l>And how it flam'd in preſence of the people.</l>
+               <pb facs="tcp:5553:20"/>
+               <l>Then with my ſelfe thought I, this fire was quenſht,</l>
+               <l>But mine endures, and by no tears is drenſht:</l>
+               <l>And were not hope accreſtis with deſire,</l>
+               <l>I had long ſince conſum'd amid this fire.</l>
+            </lg>
+            <lg>
+               <l>And when I viewd thoſe walles of <hi>Farnhame</hi> ſayre,</l>
+               <l>Where <hi>Lamuel</hi> with his Lady made repaire:</l>
+               <l>I layd me downe beſide the ditch profound,</l>
+               <l>Where <hi>Guineuer</hi> diſpairing Dame was dround,</l>
+               <l>And fell on ſleep vpon that fatall brinke,</l>
+               <l>And ſtill on thee ſweete hart I dreame, I thinke.</l>
+               <l>And were it not, that by the tract of time</l>
+               <l>The well was full with earth, with ſtone, and lime,</l>
+               <l>There had I drownd, and by my fatall fall</l>
+               <l>Made end with her of loue, and life, and all:</l>
+               <l>Yet halfe aſham'd leaſt curious eyes ſhould finde me,</l>
+               <l>I went away, and left huge teaires behind me.</l>
+            </lg>
+            <lg>
+               <l>And when I ſpide thoſe ſtones on <hi>Sarum</hi> plaine,</l>
+               <l>Which <hi>Merlin</hi> by his Magicke brought, ſome faine,</l>
+               <l>By night from farr <hi>I-erne</hi> to this land,</l>
+               <l>Where yet as oldeſt Monuments they ſtand:</l>
+               <l>And though they be but few for to behold,</l>
+               <l>Yet can they not (it is well knowne) be told.</l>
+               <l>Thoſe I compard vnto my plaints and cryes,</l>
+               <l>Whoſe totall ſumme no numers can compriſe.</l>
+            </lg>
+            <lg>
+               <l>Olde <hi>Woodſtocks</hi> wrackes to view I was deſpos'd,</l>
+               <l>Where <hi>Roſamond</hi> by <hi>Henrie</hi> was inclos'd:</l>
+               <l>The circuits all and wildeſome wayes I view,</l>
+               <l>The Laberinth, and <hi>Cliffords</hi> fatall Clew.</l>
+               <l>And where thoſe time-worne monuments had beene,</l>
+               <l>Where nought remaines but ruines to be ſeene:</l>
+               <l>Yet in my hart moe wracks, moe wayes I fand,</l>
+               <l>Then can be made by any humane hand.</l>
+               <l>And all theſe wondrous wonders which I ſee,</l>
+               <l>Makes me but wonder more and more on thee.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:5553:21"/>
+               <l>That thou be well both day and night I pray,</l>
+               <l>And for thy health once I carrouſe each day:</l>
+               <l>From pype of Loame and for thy ſaike I ſouke,</l>
+               <l>The flegm-attractiue far-fett <hi>Indian</hi> ſmouke:</l>
+               <l>Which with my braine and ſtomach beares debate,</l>
+               <l>And like the lethall Aconite I hate,</l>
+               <l>That poyſning potion pleaſant ſeems to mee,</l>
+               <l>When I determe it muſt be drunke for thee.</l>
+            </lg>
+            <lg>
+               <l>From <hi>Venus</hi> ſports I doo indeed abſtaine,</l>
+               <l>Nor am I now as I was woont ſo vaine:</l>
+               <l>Chaſt <hi>Dians</hi> laws I do adore for good,</l>
+               <l>Who kild her loue <hi>Orion</hi> in the flood.</l>
+            </lg>
+            <lg>
+               <l>Drunke <hi>Bacchus</hi> maits I hold for none of mine,</l>
+               <l>I taſte no <hi>Celtic</hi> nor <hi>Iberian</hi> Wine:</l>
+               <l>Looke on my Lyns <hi>Lyoeuns,</hi> none they ſmell,</l>
+               <l>But <hi>Helicons</hi> poore ſtreams, where Muſes dwell.</l>
+            </lg>
+            <lg>
+               <l>For all thoſe rare delights which <hi>England</hi> yeilds,</l>
+               <l>Of faces faire, of braue and fertill feilds:</l>
+               <l>For all the pleaſurs which our Court frequent,</l>
+               <l>Such as mans heart would wiſh, or witt inuent:</l>
+               <l>Yet I proteſt, I rather begg with thee,</l>
+               <l>Then be ſole King, where ſeau'n were wont to bee.</l>
+            </lg>
+            <lg>
+               <l>But when my Freend thy berar ſpurd with pane,</l>
+               <l>The Poiſt to ſee this Chalkie ſhoare agane,</l>
+               <l>And brought thy ſymboll diſcolor of new,</l>
+               <l>With commendations kind, but not anew,</l>
+               <l>I ask'd him how thou was? hee ſhooke his head.</l>
+               <l>What man (quoth I) and is my Miſtres dead?</l>
+               <l>No (anſwerd hee) but ſeik deir freend: Quoth I,</l>
+               <l>Thou know's I loue; I pray thee make no lye.</l>
+               <l>In faith but ſeik, and is no doubt err now,</l>
+               <l>As weell (ſayd hee) as ather I or yow.</l>
+               <l>This hee affirmd with ſolem oaths anew:</l>
+               <l>And yet allace I doubt if they be trew</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:5553:21"/>
+               <l>Here where the Peſt approacheth vs ſo narr,</l>
+               <l>To ſmoother breath before wee be aware:</l>
+               <l>For at the gates of our moſt royll King,</l>
+               <l>Corrupted Carions lie; O fearefull thing:</l>
+               <l>Yet feare I ſtill for thee, my loue is ſuch,</l>
+               <l>And for my ſelfe I feare not halfe ſo much:</l>
+               <l>And now I feare theſe fears ere it be long.</l>
+               <l>Will turne to Agues, and to Feuers ſtrong.</l>
+               <l>Long are my nights, and dolefull are my dayes:</l>
+               <l>Shott ſleeps, long waks; and wildſom are my wayes:</l>
+               <l>Sadd are my thoughts, ſowr ſighs; and ſalt my tearis:</l>
+               <l>My body thus els waik both wayns and wearis.</l>
+            </lg>
+            <lg>
+               <l>For loſſe of <hi>Calice, Marie</hi> Englands Queene,</l>
+               <l>Had ſighs at hart, and teai<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> about her eyne,</l>
+               <l>When I am dead, caus r<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> my hart ſayd ſhee;</l>
+               <l>And in the ſame ſhall <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ce</hi> writen bee,</l>
+               <l>Die when I will, thy name ſhall well be knawne,</l>
+               <l>Within my <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oods characters drawne.</l>
+               <l>But if (faire Dame) as yet on liff thou bee,</l>
+               <l>This Papyre then commends my loue to thee:</l>
+               <l>And if thy life by wrathfull weirds be loſt,</l>
+               <l>Chaſt <hi>Laura</hi> then thy <hi>Petrarch</hi> loues thy ghoſt:</l>
+               <l>And yet any hopes aſſures mee thou art weell,</l>
+               <l>And in theſe hopes a comfort hidd I feell.</l>
+               <l>This for the time ſweet hart, that thou may kno,</l>
+               <l>I leaue thy man, and loue but thee; and ſo,</l>
+               <l>Till by thy wreat I know thy further will,</l>
+               <l>I ſay no more, but ſigh, and ſeals my Bill.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb facs="tcp:5553:22"/>
+            <head>SONET.</head>
+            <lg>
+               <l>FRom this <hi>Abydos</hi> where I duyne and die,</l>
+               <l>And ſore God know I againſt my hart remaine,</l>
+               <l>I wreat with wo ſweet <hi>Seſtian</hi> Saint to thee,</l>
+               <l>And blacke this Paper with the Inck of paine,</l>
+               <l>No waltering waues of <hi>Neptune</hi> moone-mou'd maine:</l>
+               <l>Nor <hi>Helleſponts</hi> impetuous contrare tyde,</l>
+               <l>No Sea nor Flood, no ſtormie Wind nor Raine,</l>
+               <l>Are lets or batrs that from thy boun<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> I bide,</l>
+               <l>My wayes allace doth ielous <hi>Argus</hi> keepe,</l>
+               <l>And I am not acquent with <hi>Mercur's</hi> skill,</l>
+               <l>To lull and bring his watching eyes aſleepe,</l>
+               <l>That I may wiſh, and thou may haue thy will:</l>
+               <l>Yet till we meet, a conſtant <hi>Hero</hi> proue,</l>
+               <l>And whill I liue thou art <hi>Leanders</hi> Loue.</l>
+            </lg>
+            <closer>
+               <signed>CRAIGE.</signed>
+            </closer>
+         </div>
+         <div type="sonnets">
+            <pb facs="tcp:5553:22"/>
+            <head>To the Kings moſt Royall Maieſtie.</head>
+            <div type="sonnet">
+               <head>1. SONET.</head>
+               <lg>
+                  <l>KInd <hi>Attalus</hi> in Annals old wee reid,</l>
+                  <l>Was King of <hi>Pe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ame</hi> by the <hi>Romans</hi> ayde,</l>
+                  <l>Hee long time brookt the ſame, but foraine feid,</l>
+                  <l>Which made thoſe noble <hi>Romans</hi> to be glad:</l>
+                  <l>And yet becaus hee had no heyrs, 'tis ſayd</l>
+                  <l>Hee to thoſe foreſayd <hi>Romans</hi> did reſigne,</l>
+                  <l>His Diadem and Crowne, and what he hade</l>
+                  <l>Hee gaue to them, that erſt made him a King.</l>
+                  <l>Hade I been made no Poet S. but Prince</l>
+                  <l>Of fertill bounds for <hi>Parnaſe</hi> bare and dry,</l>
+                  <l>Your Grace had gott my Crowne and all long ſince,</l>
+                  <l>For I laik heyrs, and none more kind then I.</l>
+                  <l>To vſe thee ſweet inchanting Poets vaine,</l>
+                  <l>You gaue mee Reuls, I giue you Ryms againe.</l>
+               </lg>
+            </div>
+            <div type="sonnet">
+               <pb facs="tcp:5553:23"/>
+               <head>2. SONET.</head>
+               <lg>
+                  <l>
+                     <hi>ANACREON</hi> two dayes two nights did watch,</l>
+                  <l>Till he return'd <hi>Policrates</hi> againe;</l>
+                  <l>Theſe Talents two which hee receiud, fond wratch,</l>
+                  <l>To wake for wealth, and pinch him ſelfe with paine.</l>
+                  <l>But contrare wayes, I ſaikes ſoull am ſlaine:</l>
+                  <l>I wake for want, and not for wealth allace:</l>
+                  <l>My voyce is hoatſe with cryes; dry is my braine,</l>
+                  <l>Yet get I not the ſmalleſt graine of grace.</l>
+                  <l>A <hi>Cythared</hi> though poore, did ſweetly ſing,</l>
+                  <l>Caus <hi>Dioniſe</hi> did promiſe him reward.</l>
+                  <l>And thus to thee I wreat moſt gratious King,</l>
+                  <l>In hope thy Grace will once my greiffs regard:</l>
+                  <l>And by my Penthy prayſes ſhall be ſpred,</l>
+                  <l>From ryſing Sunn to his Heſpereanbed.</l>
+               </lg>
+               <q>Non omnis moriar.</q>
+               <closer>
+                  <signed>CRAIGE.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="encomium">
+            <pb facs="tcp:5553:23"/>
+            <head>To the Author.</head>
+            <lg>
+               <l>WHY thought fond <hi>Grece</hi> to build a ſolid fame,</l>
+               <l>On fleeing ſhades of fables paſsing vaine?</l>
+               <l>Why did herſelf-deceauing fanſie dreame,</l>
+               <l>That none but ſhee, the <hi>Muſes</hi> did maintaine?</l>
+               <l>Shee ſayd, theſe ſacred Siſters did remaine</l>
+               <l>Confind within a <hi>Craig</hi> which there did lie,</l>
+               <l>That great <hi>Apollo</hi> ſelfe did not diſdaine,</l>
+               <l>For that rough Palace, to renounce the skie:</l>
+               <l>That there a Well ſtill drawne, but neuer dry,</l>
+               <l>Made Lay-men Poets eir they left the place:</l>
+               <l>But all were ta'ls, which Fame doth now bely,</l>
+               <l>And builds vp <hi>Albions</hi> glore, to their diſgrace.</l>
+               <l>Lo here the <hi>CRAIGE,</hi> whence flow's that ſacred Well,</l>
+               <l>Where <hi>Phoebus</hi> raigns, where all the <hi>Muſes</hi> dwell.</l>
+            </lg>
+            <byline>Ro Aytone.</byline>
+         </div>
+      </back>
+   </text>
+</TEI>
